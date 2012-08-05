@@ -2,4 +2,4 @@
 -export([helloworld/0]).
 
 helloworld()->
-    hello ++ world.
+    helloworld.
